@@ -1,2 +1,3 @@
-# dmrg_wavefunction
-dmrg implementation in the wave function formalism
+# dmrg_openmp
+
+This package is the implementation of conventional DMRG with openmp tools.
